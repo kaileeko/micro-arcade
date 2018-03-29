@@ -217,7 +217,6 @@ class Game {
     
     // sets up a new game of Space Invaders
     // Modifies: global variable matrix
-    // see http://arduino.cc/en/Reference/Setup
     void setup() {
     }
     
