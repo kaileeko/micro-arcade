@@ -9,7 +9,7 @@ This project involves using the Arduino micro-controller link two sensors to an 
 * Start moving beyond simply writing code to designing programs
 * Have fun!
 
-* **NOTE!!!**: This project will be limited to the first 45 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/VDwZfu8N48E5gh7v2) by 11:59 pm on March 25th. **Only one sign up per team**. Also note that, should the limit of 45 teams be reached before this time, the sign up form will close and your team will not be able to select this project. More details are found in the [Proposal](#proposal) section of this document.
+* **NOTE!!!**: This project will be limited to the first 65 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/R1QlbHotxJEI98k92) by 11:59 pm on March 25th. **Only one sign up per team**. Also note that, should the limit of 65 teams be reached before this time, the sign up form will close and your team will not be able to select this project. More details are found in the [Proposal](#proposal) section of this document.
 
 Here's a picture of what your final product might look like:
 
@@ -425,7 +425,7 @@ In preparation to complete the project proposal, your team will need the followi
 
 ## Step 0 of 3
 
-**NOTE!!!**: This project will be limited to the first 45 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/VDwZfu8N48E5gh7v2) by 11:59 pm on March 25th. **Only one sign up per team, please**. Failure to do so will disqualify your team from selecting this project. Also note that if the limit of 45 teams is reached, no futher teams will be allowed to complete this project. Form your team early and complete the [Arduino Team Sign-Up form](https://goo.gl/forms/VDwZfu8N48E5gh7v2)! Then your team may complete and submit your proposal, as detailed below.
+**NOTE!!!**: This project will be limited to the first 65 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/R1QlbHotxJEI98k92) by 11:59 pm on March 25th. **Only one sign up per team, please**. Failure to do so will disqualify your team from selecting this project. Also note that if the limit of 65 teams is reached, no futher teams will be allowed to complete this project. Form your team early and complete the [Arduino Team Sign-Up form](https://goo.gl/forms/R1QlbHotxJEI98k92)! Then your team may complete and submit your proposal, as detailed below.
 
 ## Step 1 of 3
 
@@ -501,13 +501,12 @@ If the Arduino IDE refuses to run on a Mac, even after you have installed a newe
 
 The Arduino Micro Arcade staff team has the following staff members.
 
-* Andrew Wallis
+* Bill Arthur
+* Zahra Makki
+* Aparajita Saraf
 * Krishna Trivedi
-* Isabella DeShantz-Cook
-* Naomi Endres
 * Madison Helsel
 * Stefan Falkenstein
-* Pranav Srinivasan
 
 # References
 
