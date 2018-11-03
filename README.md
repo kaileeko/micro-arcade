@@ -9,7 +9,9 @@ This project involves using the Arduino micro-controller link two sensors to an 
 * Start moving beyond simply writing code to designing programs
 * Have fun!
 
-* **NOTE!!!**: This project will be limited to the first 65 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/R1QlbHotxJEI98k92) by 11:59 pm on March 25th. **Only one sign up per team**. Also note that, should the limit of 65 teams be reached before this time, the sign up form will close and your team will not be able to select this project. More details are found in the [Proposal](#proposal) section of this document.
+* **NOTE!!!**: This project will be limited to the first 65 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/R1QlbHotxJEI98k92) by 11:59 pm on November 18th. **Only one sign up per team**. Also note that, should the limit of 65 teams be reached before this time, the sign up form will close and your team will not be able to select this project. More details are found in the [Proposal](#proposal) section of this document.
+
+Your team will be provided all of the hardware to complete the project.
 
 Here's a picture of what your final product might look like:
 
@@ -54,9 +56,8 @@ Your team will be provided with the following necessary hardware
 * 1 Arduino Uno
 * 1 Adafruit 16x32 RGB Matrix Panel
 * 1 breadboard
-* 1 potentiometer
+* 1 potentiometers
 * 1 button
-* 1 Piezo speaker
 * 1 flat ribbon cable
 * 1 USB cable
 * 1 5V power converter
@@ -413,6 +414,8 @@ We are most impressed by students being creative and implementing their own game
 * Another classic arcade game (see exceptions above).  A quick google search will find dozens of potential ideas
 * A **significantly** upgraded Invaders game. An example is a game with a combination of interesting boss levels and new gameplay elements (power ups, invaders shoot cannonballs, multiplayer functionality, a variety of different weapons, an AI that learns to beat the invaders, etc.).
 
+NOTE: You are free to obtain and use new hardware in your Reach. Be sure to plan ahead; you will likely have to order all additional hardware over the internet and wait for it to arrive. We will provide extra buttons, potentiometers, resistors, wires, and breadboards as requested.  
+
 # Proposal
 
 ## Required Items
@@ -451,9 +454,9 @@ As well as these warm-up questions about the project:
 ## Step 2 of 3
 
 Only one person per team needs to complete the following instructions.
-Submit your proposals in PDF format by **Sunday 3/25** to [EECS 183 on Gradescope](https://gradescope.com/courses/15845).
+Submit your proposals in PDF format by **Sunday 3/25** to [EECS 183 on Gradescope](https://www.gradescope.com/courses/18600).
 
-* Head to [EECS 183 on Gradescope](https://gradescope.com/courses/15845). Then choose **Proposal: Arduino** from the assignments list. Select **Submit PDF** and upload your proposal.pdf.
+* Head to [EECS 183 on Gradescope](https://www.gradescope.com/courses/18600). Then choose **Proposal: Arduino** from the assignments list. Select **Submit PDF** and upload your proposal.pdf.
 * Once the PDF file has been uploaded, select pages corresponding to each part (i.e., question) of the proposal assignment. Click **Save**.
 * Click on **Add Group Member** on the top right. Add the three other members of your team by typing their names or email addresses. Once everyone on your team is in the list, click **Save**. Everyone who has been added to the group on Gradescope will receive an email and will be able to access the submission, including the score and staff's comments after the proposal has been graded.
 
@@ -462,7 +465,7 @@ Submit your proposals in PDF format by **Sunday 3/25** to [EECS 183 on Gradescop
 Only one person per team needs to complete the following instructions.
 To complete this step, you **must** have the correct GitHub usernames for all of you team members.
  
-Have ONE PERSON on your team sign your team up for a GitHub repository. The signup page will be announced on the course website.
+Have ONE PERSON on your team sign your team up for a GitHub repository. The signup page will be announced on the course website, TBA.
 
 
 # Project Submission
@@ -473,13 +476,13 @@ Submissions will occur via your team GitHub repository. You will create a sketch
 
 | Project Component   | Maximum Points | Due Date  |         How to Submit         |
 |:-------------------:|:--------------:|:---------:|:-----------------------------:|
-|Team Sign Up         |      0         |   3/25   | Google Form                   |
-|Proposal             |      10        |   3/25   | Gradescope                    |
-|Core                 |      50        |   4/06   | GitHub                        |
-|Core Team Evaluation |      5         |   4/07   | TBA                           |
-|Reach                |      50        |   4/17   | GitHub                        |
-|Final Team Evaluation|      5         |   4/18   | TBA                           |
-|Showcase             |      10        |   4/18   | Attendance + Presentation     |
+|Team Sign Up         |      0         |   11/18   | Google Form                   |
+|Proposal             |      10        |   11/18   | Gradescope                    |
+|Core                 |      50        |   11/30   | GitHub                        |
+|Core Team Evaluation |      5         |   12/01   | TBA                           |
+|Reach                |      50        |   12/11   | GitHub                        |
+|Final Team Evaluation|      5         |   12/14   | TBA                           |
+|Showcase             |      10        |   12/19   | Attendance + Presentation     |
 
 # Grading Rubric
 
