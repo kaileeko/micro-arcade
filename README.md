@@ -9,7 +9,9 @@ This project involves using the Arduino micro-controller link two sensors to an 
 * Start moving beyond simply writing code to designing programs
 * Have fun!
 
-* **NOTE!!!**: This project will be limited to the first 65 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/R1QlbHotxJEI98k92) by 11:59 pm on November 18th. **Only one sign up per team**. Also note that, should the limit of 65 teams be reached before this time, the sign up form will close and your team will not be able to select this project. More details are found in the [Proposal](#proposal) section of this document.
+* **NOTE!!!**: **This project has reached the maximum capacity of 65 teams for the semester as of 6:15 pm on 11/18.** If you have not already completed the signup, please select another project. 
+
+This project will be limited to the first 65 teams to request this project. Your team MUST submit a request using the [Arduino Team Sign-Up form](https://goo.gl/forms/R1QlbHotxJEI98k92) by 11:59 pm on November 18th. **Only one sign up per team**. Also note that, should the limit of 65 teams be reached before this time, the sign up form will close and your team will not be able to select this project. More details are found in the [Proposal](#proposal) section of this document.
 
 * **NOTE!!!**: Distribution of Arduino hardware kits will start on Friday, November 16th. See the [Arduino Kit Distribution](https://eecs183.org/projects/final/arduino/) for more information about times and location.
 
